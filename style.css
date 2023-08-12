@@ -1,3 +1,29 @@
-html{
-    color: green;
+
+/* CSS Class Selector*/
+.color-title{
+    font-weight: normal;
+}
+
+/* CSS Id Selector */
+#red{
+    color: red
+}
+#blue{
+    color: blue
+}
+#orange{
+    color: orange
+}
+#green{
+    color: green
+}
+#yellow{
+    color: yellow
+}
+
+/* CSS Element Selector*/
+
+img {
+    width: 200px;
+    height: 200px;
 }
